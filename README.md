@@ -1,2 +1,2 @@
 # omerkhala.github.io
-Personal Website
+Personal Website dedicated to providing a portfolio/CV to demonstrate technical capabilities.
